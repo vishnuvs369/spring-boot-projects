@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/apaspxp/employee-database.git"/>
+		<item value="https://github.com/RameshMF/registration-login-spring-boot-security-thymeleaf-hibernate.git"/>
+		<item value="https://github.com/basahota/order-service-codebuild-ecr.git"/>
+		<item value="https://github.com/javahometech/node-app.git"/>
+		<item value="https://github.com/nareshkumar-h/aws-codebuild-sample-maven-project.git"/>
+		<item value="https://github.com/vishnuvs369/spring-boot-restfulapi.git"/>
+	</list>
+	<section name="GitImportWizard">
+		<item key="GitProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+</section>

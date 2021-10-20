@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\Users\\user\\git\\spring-boot-restfulapi\\.git;E\:\\git\\registration-login-spring-boot-security-thymeleaf-hibernate\\.git;E\:\\git\\employee-database\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\Users\\user\\git\\spring-boot-restfulapi\\.git;E\:\\git\\registration-login-spring-boot-security-thymeleaf-hibernate\\.git;E\:\\git\\employee-database\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1

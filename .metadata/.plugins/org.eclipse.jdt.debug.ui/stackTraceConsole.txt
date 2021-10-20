@@ -1,0 +1,8 @@
+com.amazonaws.eclipse.core.exceptions.AwsActionException
+	at com.amazonaws.eclipse.lambda.upload.wizard.UploadFunctionWizard.doFinish(UploadFunctionWizard.java:115)
+	at com.amazonaws.eclipse.core.plugin.AbstractAwsJobWizard$1.run(AbstractAwsJobWizard.java:35)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.NullPointerException
+	at com.amazonaws.eclipse.lambda.upload.wizard.util.UploadFunctionUtil.performFunctionUpload(UploadFunctionUtil.java:82)
+	at com.amazonaws.eclipse.lambda.upload.wizard.UploadFunctionWizard.doFinish(UploadFunctionWizard.java:111)
+	... 2 more
